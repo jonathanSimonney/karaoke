@@ -1,5 +1,9 @@
 # karaoke
 
+## what is it
+
+it is a simple karaoke project that I made in April 2017.
+
 ## setup
 
 clone the repository
